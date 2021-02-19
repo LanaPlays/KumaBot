@@ -1,0 +1,97 @@
+<!--
+
+  This is your bot's presentation page
+  It shows the commands your bot will respond to, and an example of a response for each command
+
+-->
+
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>{{botname}}</title>
+    <style>
+      body {
+        background-color: #344;
+        margin: 0;
+      }
+      .content {
+        font-size: large;
+        font-family: helvetica;
+        background-color: #344;
+        color: aliceblue;
+        max-width: 600px;
+        margin: 50px auto;
+        white-space: pre-line;
+      }
+      .content a {
+        color: aliceblue;
+      }
+      .content h3 {
+        margin-bottom: 0px;
+      }
+      .avatar {
+        border-radius: 100%;
+        height: 50px;
+        float: left;
+        margin: 10px;
+      }
+      .remix {
+        background-color: aliceblue;
+        color: #344;
+        border-radius: 3px;
+        padding: 5px 3px 2px 3px;
+      } 
+      .story {
+        margin-top: 0px;
+        padding: 20px;
+        background-color: #455;
+        border-radius: 5px;
+      }
+      .credits {
+        font-family: helvetica;
+        font-size: small;
+        color: aliceblue;
+        background-color: #455;
+        border-radius: 5px 5px 0 0;
+        max-width: 600px;
+        margin: 50px auto 0 auto;
+      }
+      .credits p {
+        padding: 20px 20px 100px 20px;
+        margin: 0;
+      }
+      .credits a {
+        color: aliceblue;
+      }
+      @media (max-width: 700px) {
+        .content {
+          margin: 50px 50px;
+        }
+        .credits {
+          margin: 0 50px;
+        }
+      }
+    </style>
+  </head>
+  <body class="page">
+    <div class="content">
+      <img class="avatar" src="https://cdn.discordapp.com/avatars/{{id}}/{{avatar}}.jpg" />
+      <h1>{{botname}}</h1>
+      <p>{{description}}</p>
+      <p class="story">
+        <a href="https://discord.com/api/oauth2/authorize?client_id={{id}}&permissions=2048&scope=bot" target="_blank">Click here to invite {{botname}} to your server</a><br />
+        {{botname}} is a bot made by Mattew11111#2052 <a href="https://tinyurl.com/rgtpyt" target="_blank">      </p>
+      <h2>{{botname}}'s commands</h2>
+      {{#each story}}
+        <h3>{{this.command}}</h3>
+        <pre>{{this.origin}}</pre>
+        <p class="story">{{this.story}}</p>
+      {{/each}}
+    </div>
+    <div class="credits">
+      <p>
+      Built by Mattew11111
+      </p>
+    </div>
+  </body>
+</html>
