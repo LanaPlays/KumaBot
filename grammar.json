@@ -12,10 +12,10 @@
     "🪕 _#song#_ 🎤"
   ],
   "lesson-body": [
-    "I have my own website!\nCheck it out: #homepage-url#",
+    "I have my own YouTube!\nCheck it out: https://www.youtube.com/channel/UCygNmeu7DHrC7Ji4B2wZP-w",
     "You can invite me to your server!\n#invite-url#"
   ],
-  "cool": ["cool","awesome","amazing","totally rad"],
+  "VarCool": ["cool","positively awesome","positively amazing","totally rad", "squishy", "impeccable", "awake", "asleep"],
   "lesson": [
     "Hey, you know what's #cool#? #lesson-body#",
     "You'll like this: #lesson-body#",
@@ -25,17 +25,22 @@
     "Can you keep a secret?\n\n#lesson-body#\n\n🤫"
   ],
   "default": [
-    "Do !help, #user#",
-    "I can't understand what you're saying #user#, do !help 😭"
+    "!hello, !socials, !sing, !twitch, !learn, !default, !help, !credits, !feedback, !twitter"
+  ],
+  "socials": [
+    "https://www.twitch.tv/explosivekuma, https://twitter.com/ExplosiveKuma"
   ],
   "hello": [
     "Greetings #user#!",
     "Hello #user#!",
-    "Ah, #user#, you are looking positively Cool today!",
+    "Ah, #user#, you are looking #VarCool# today!",
     "#user#, you have inspired me to sing _#song#_ 🎶"
   ],
   "origin": [
     "#hello#"
+  ],
+   "twitter": [
+    "https://twitter.com/ExplosiveKuma"
   ],
   "feedback": [
     "https://forms.gle/c8utyKJY8MQ2cCwXA"
@@ -47,6 +52,6 @@
     "https://www.twitch.tv/explosivekuma"
    ],
   "help": [
-    "!hello, !sing, !twitch, !learn, !default, !help, !credits, !feedback"
+    "!hello, !socials, !sing, !twitch, !learn, !default, !help, !credits, !feedback, !twitter"
   ]
 }
