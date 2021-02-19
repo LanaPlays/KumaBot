@@ -1,0 +1,52 @@
+{
+  "remix-url": ["https://glitch.com/edit/\\#!/remix/#glitchproject#"],
+  "homepage-url": ["https://#glitchproject#.glitch.me"],
+  "invite-url": ["https://discord.com/api/oauth2/authorize?client_id=#botid#&permissions=2048&scope=bot"],
+  
+  
+  "note": ["do","re","mi","fa","sol", "la", "ti", "do"],
+  "song": ["#note# #note# #song#","#note# #song#","#note# #note# #note#"],
+  "sing": [
+    "Let me sing for you, #user#\n🎼_#song#_",
+    "#user#, let this song warm your fleshy heart\n_#song#_ 🎶",
+    "🪕 _#song#_ 🎤"
+  ],
+  "lesson-body": [
+    "I have my own website!\nCheck it out: #homepage-url#",
+    "You can invite me to your server!\n#invite-url#"
+  ],
+  "cool": ["cool","awesome","amazing","totally rad"],
+  "lesson": [
+    "Hey, you know what's #cool#? #lesson-body#",
+    "You'll like this: #lesson-body#",
+    "I've got something for you, #user#!\n#lesson-body#",
+    "Did you know? #lesson-body#",
+    "#lesson-body#\nRemember that!",
+    "Can you keep a secret?\n\n#lesson-body#\n\n🤫"
+  ],
+  "default": [
+    "Do !help, #user#",
+    "I can't understand what you're saying #user#, do !help 😭"
+  ],
+  "hello": [
+    "Greetings #user#!",
+    "Hello #user#!",
+    "Ah, #user#, you are looking positively Cool today!",
+    "#user#, you have inspired me to sing _#song#_ 🎶"
+  ],
+  "origin": [
+    "#hello#"
+  ],
+  "feedback": [
+    "https://forms.gle/c8utyKJY8MQ2cCwXA"
+  ],
+    "credits": [
+    "Developed by @Mattew11111\\#2052"
+  ],
+  "twitch": [
+    "https://www.twitch.tv/explosivekuma"
+   ],
+  "help": [
+    "!hello, !sing, !twitch, !learn, !default, !help, !credits, !feedback"
+  ]
+}
