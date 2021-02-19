@@ -27,6 +27,9 @@
   "default": [
     "!hello, !socials, !sing, !twitch, !learn, !default, !help, !credits, !feedback, !twitter"
   ],
+  "invite": [
+    "https://discord.gg/qXehGWT"
+  ],
   "socials": [
     "https://www.twitch.tv/explosivekuma, https://twitter.com/ExplosiveKuma"
   ],
@@ -52,6 +55,6 @@
     "https://www.twitch.tv/explosivekuma"
    ],
   "help": [
-    "!hello, !socials, !sing, !twitch, !learn, !default, !help, !credits, !feedback, !twitter"
+    "!hello, !socials, !sing, !twitch, !learn, !default, !help, !credits, !feedback, !twitter !invite"
   ]
 }

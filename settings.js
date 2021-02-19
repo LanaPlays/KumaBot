@@ -14,6 +14,7 @@ module.exports = {
     "!teach": "#lesson#",
     "!twitch": "#twitch#",
     "!help": "#help#",
+    "!invite": "#invite#",
     "!teach": "#lesson#",
     "!credits": "#credits#",
     "!learn": "#lesson#",
