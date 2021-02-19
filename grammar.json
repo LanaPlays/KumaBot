@@ -1,11 +1,12 @@
 {
   "remix-url": ["https://glitch.com/edit/\\#!/remix/#glitchproject#"],
   "homepage-url": ["https://#glitchproject#.glitch.me"],
-  "invite-url": ["https://discord.com/api/oauth2/authorize?client_id=#botid#&permissions=2048&scope=bot"],
-  
-  
-  "note": ["do","re","mi","fa","sol", "la", "ti", "do"],
-  "song": ["#note# #note# #song#","#note# #song#","#note# #note# #note#"],
+  "invite-url": [
+    "https://discord.com/api/oauth2/authorize?client_id=#botid#&permissions=2048&scope=bot"
+  ],
+
+  "note": ["do", "re", "mi", "fa", "sol", "la", "ti", "do"],
+  "song": ["#note# #note# #song#", "#note# #song#", "#note# #note# #note#"],
   "sing": [
     "Let me sing for you, #user#\n🎼_#song#_",
     "#user#, let this song warm your fleshy heart\n_#song#_ 🎶",
@@ -15,7 +16,16 @@
     "I have my own YouTube!\nCheck it out: https://www.youtube.com/channel/UCygNmeu7DHrC7Ji4B2wZP-w",
     "You can invite me to your server!\n#invite-url#"
   ],
-  "VarCool": ["cool","positively awesome","positively amazing","totally rad", "squishy", "impeccable", "awake", "asleep"],
+  "VarCool": [
+    "cool",
+    "positively awesome",
+    "positively amazing",
+    "totally rad",
+    "squishy",
+    "impeccable",
+    "awake",
+    "asleep"
+  ],
   "lesson": [
     "Hey, you know what's #cool#? #lesson-body#",
     "You'll like this: #lesson-body#",
@@ -27,9 +37,7 @@
   "default": [
     "!hello, !socials, !sing, !twitch, !learn, !default, !help, !credits, !feedback, !twitter"
   ],
-  "invite": [
-    "https://discord.gg/qXehGWT"
-  ],
+  "invite": ["https://discord.gg/qXehGWT"],
   "socials": [
     "https://www.twitch.tv/explosivekuma, https://twitter.com/ExplosiveKuma"
   ],
@@ -39,22 +47,13 @@
     "Ah, #user#, you are looking #VarCool# today!",
     "#user#, you have inspired me to sing _#song#_ 🎶"
   ],
-  "origin": [
-    "#hello#"
-  ],
-   "twitter": [
-    "https://twitter.com/ExplosiveKuma"
-  ],
-  "feedback": [
-    "https://forms.gle/c8utyKJY8MQ2cCwXA"
-  ],
-    "credits": [
-    "Developed by @Mattew11111\\#2052"
-  ],
-  "twitch": [
-    "https://www.twitch.tv/explosivekuma"
-   ],
+  "origin": ["#hello#"],
+  "link": ["https://bit.ly/KumaBot"],
+  "twitter": ["https://twitter.com/ExplosiveKuma"],
+  "feedback": ["https://forms.gle/c8utyKJY8MQ2cCwXA"],
+  "credits": ["Developed by @Mattew11111\\#2052"],
+  "twitch": ["https://www.twitch.tv/explosivekuma"],
   "help": [
-    "!hello, !socials, !sing, !twitch, !learn, !default, !help, !credits, !feedback, !twitter !invite"
+    "!hello, !socials, !sing, !twitch, !learn, !default, !help, !credits, !feedback, !twitter, !invite,!link"
   ]
 }
