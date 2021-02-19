@@ -6,6 +6,7 @@ module.exports = {
     "!greetings": "#hello#",
     "!hey": "#hello#",
     "!sing": "#sing#",
+    "!commands": "#help#",
     "!feedback": "#feedback#",
     "!song": "#sing#",
     "!twitter": "#twitter#",
@@ -18,6 +19,9 @@ module.exports = {
     "!teach": "#lesson#",
     "!credits": "#credits#",
     "!learn": "#lesson#",
+    "!link": "#link#",
+    "!site": "#link#",
+    "!website": "#link#",
     "default": "#default#"
   }
 }
