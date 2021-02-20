@@ -1,6 +1,5 @@
 module.exports = {
   unmentionedProbability: 1,
-  // List of words your bot will respond to, and the tag from grammar.json it'll respond with
   origins: {
     "!hello": "#hello#",
     "!greetings": "#hello#",
@@ -15,13 +14,19 @@ module.exports = {
     "!teach": "#lesson#",
     "!twitch": "#twitch#",
     "!help": "#help#",
+    "!giphy": "#help#",
     "!invite": "#invite#",
     "!teach": "#lesson#",
     "!credits": "#credits#",
+    "!stressed": "#stress#",
     "!learn": "#lesson#",
     "!link": "#link#",
     "!site": "#link#",
     "!website": "#link#",
-    "default": "#default#"
+    ":sonicdab:": "#dab#",
+    "!tpose": "#tpose#",
+    "!clap": "#clap#",
+    "default": "#help#",
+    "!babyyodameme": "#babyyodameme#"
   }
-}
+};
