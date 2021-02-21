@@ -26,7 +26,7 @@ module.exports = {
     ":sonicdab:": "#dab#",
     "!tpose": "#tpose#",
     "!clap": "#clap#",
-    "default": "#help#",
-    "!babyyodameme": "#babyyodameme#"
+    default: "#help#",
+    "!babyyoda": "#babyyodameme#"
   }
 };
