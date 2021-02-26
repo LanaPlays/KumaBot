@@ -34,27 +34,21 @@
     "#lesson-body#\nRemember that!",
     "Can you keep a secret?\n\n#lesson-body#\n\n🤫"
   ],
-  "default": [
-    "!hello, !socials, !sing, !twitch, !learn, !default, !help, !credits, !feedback, !twitter, !invite, !link, :Sonicdab:"
+  "default": ["#help#"],
+  "qotd": [
+    "What is your favorite game?",
+    "Do you mostly game on console or pc?",
+    "If you had the choice to do anything, what would you do? ",
+    "When do you typically wake up?",
+    "What social media platforms, If any do you use"
   ],
-  "dab": [
-    "https://giphy.com/gifs/sonicmovie-sonic-the-hedgehog-movie-LMQgs60HFzAfdZYKtn"
+  "stressed": [
+    "https://tenor.com/view/big-bang-theroy-stressed-hyperventilating-gif-5526672"
   ],
   "invite": ["https://discord.gg/qXehGWT"],
   "socials": [
     "https://www.twitch.tv/explosivekuma, https://twitter.com/ExplosiveKuma"
   ],
-  "tpose": ["https://tenor.com/view/tpose-super-smashbros-mario-gif-13998996"],
-  "clap": [
-    "https://tenor.com/view/good-job-clapping-leonardo-dicaprio-bravo-great-gif-7248435"
-  ],
-  "stress": [
-    "https://tenor.com/view/big-bang-theroy-stressed-hyperventilating-gif-5526672"
-  ],
-  "babyyodameme": [
-    "https://tenor.com/view/baby-yoda-the-mandalorian-cute-aww-gimme-all-the-chicken-nuggies-gif-16252134"
-  ],
-
   "hello": [
     "Greetings #user#!",
     "Hello #user#!",
@@ -62,12 +56,12 @@
     "#user#, you have inspired me to sing _#song#_ 🎶"
   ],
   "origin": ["#hello#"],
-  "link": ["https://bit.ly/KumaBot"],
+  "link": ["https://bit.ly/S14N0"],
   "twitter": ["https://twitter.com/ExplosiveKuma"],
   "feedback": ["https://forms.gle/c8utyKJY8MQ2cCwXA"],
   "credits": ["Developed by @Mattew11111\\#2052"],
   "twitch": ["https://www.twitch.tv/explosivekuma"],
   "help": [
-    "!hello, !socials, !sing, !twitch, !babyyoda, !learn, !default, !help, !credits, !feedback, !twitter, !invite, !link, :sonicdab:, !tpose, !stressed, !clap"
+    "!hello, !socials, !sing, !twitch, !learn, !default, !help, !credits, !feedback, !twitter, !invite,!link"
   ]
 }

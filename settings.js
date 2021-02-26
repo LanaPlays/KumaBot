@@ -14,19 +14,15 @@ module.exports = {
     "!teach": "#lesson#",
     "!twitch": "#twitch#",
     "!help": "#help#",
-    "!giphy": "#help#",
     "!invite": "#invite#",
     "!teach": "#lesson#",
     "!credits": "#credits#",
-    "!stressed": "#stress#",
     "!learn": "#lesson#",
     "!link": "#link#",
     "!site": "#link#",
+    "!qotd": "#qotd#",
     "!website": "#link#",
-    ":sonicdab:": "#dab#",
-    "!tpose": "#tpose#",
-    "!clap": "#clap#",
-    default: "#help#",
-    "!babyyoda": "#babyyodameme#"
+    "!stressed": "#stressed#",
+    default: "#default#"
   }
 };
