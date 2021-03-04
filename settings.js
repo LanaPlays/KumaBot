@@ -23,6 +23,7 @@ module.exports = {
     "!qotd": "#qotd#",
     "!website": "#link#",
     "!stressed": "#stressed#",
+    "!dragon": "#dragon#",
     default: "#default#"
   }
 };

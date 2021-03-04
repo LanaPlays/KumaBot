@@ -49,6 +49,9 @@
   "socials": [
     "https://www.twitch.tv/explosivekuma, https://twitter.com/ExplosiveKuma"
   ],
+   "dragon": [
+    "https://media.giphy.com/media/RQ6LoKZ3Ui2Sw9kj8Q/giphy.gif"
+  ],
   "hello": [
     "Greetings #user#!",
     "Hello #user#!",
@@ -62,6 +65,6 @@
   "credits": ["Developed by @Mattew11111\\#2052"],
   "twitch": ["https://www.twitch.tv/explosivekuma"],
   "help": [
-    "!hello, !socials, !sing, !twitch, !learn, !default, !help, !credits, !feedback, !twitter, !invite,!link"
+    "!hello, !socials, !sing, !twitch, !learn, !default, !help, !credits, !feedback, !twitter, !invite,!link, !stressed, !dragon"
   ]
 }
